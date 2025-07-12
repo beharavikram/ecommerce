@@ -1,0 +1,11 @@
+#contact {
+    text-align:center ;
+}
+body {
+  width: 100%; 
+  overflow-x: hidden;
+}
+.topic {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: rgb(9, 187, 251);
+}
